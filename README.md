@@ -1,4 +1,4 @@
-# Laser Defanse
+# Laser Defense
 Technologies: Unity (C#)
 Main Features:
    * Work with other developers and artists.
