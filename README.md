@@ -1,4 +1,4 @@
-# LaserDefanser
+# Laser Defanse
 Technologies: Unity (C#)
 Main Features:
    * Work with other developers and artists.
